@@ -1,0 +1,7 @@
+get 2 cards 
+
+if sum of 2 cards are less than 12 then
+go for hit
+
+else if sum of 2 cards are between 16 to 19 
+go for stand

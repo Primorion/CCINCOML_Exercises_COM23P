@@ -1,0 +1,7 @@
+num is equal to user input
+
+if the number divided by 2 has a remainder equal to 0
+OUTPUT the number is even
+
+ELSE 
+OUTPUT the number is odd
